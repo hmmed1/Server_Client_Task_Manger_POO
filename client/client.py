@@ -22,7 +22,7 @@ class ClientTasks:
 
 
 
-
+print("HI CLIENT !")
 client = ClientTasks("server_cont", 12345)
 client.menu()
 
